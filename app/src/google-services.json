@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485400161417",
+    "firebase_url": "https://lawconsultant-515fb-default-rtdb.firebaseio.com",
+    "project_id": "lawconsultant-515fb",
+    "storage_bucket": "lawconsultant-515fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485400161417:android:971dc160c6af79923cea58",
+        "android_client_info": {
+          "package_name": "com.example.lawconsultanttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485400161417-jqtcmt313msmdu634l9cr0cb7dn1t4jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnbCctpIuw-PgdqS4X6HwjfMg2EdR56WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485400161417-jqtcmt313msmdu634l9cr0cb7dn1t4jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
